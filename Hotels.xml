@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+  <!-- Example from figure (Westin) -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 10 real hotels (sample addresses and phones) -->
+  <Hotel Rating="4.5">
+    <Name>Hilton Phoenix Tapatio Cliffs</Name>
+    <Phone>602-993-3450</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>111</Number>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Arizona Biltmore</Name>
+    <Phone>602-955-6600</Phone>
+    <Phone>800-950-0081</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2400</Number>
+      <Street>E Missouri Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85016</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Name>JW Marriott Phoenix Desert Ridge Resort &amp; Spa</Name>
+    <Phone>480-293-5000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5350</Number>
+      <Street>E Marriott Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85255</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hyatt Regency Scottsdale</Name>
+    <Phone>480-659-1234</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>7500</Number>
+      <Street>E Doubletree Ranch Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85258</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Omni Scottsdale Resort &amp; Spa at Montelucia</Name>
+    <Phone>480-627-3200</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4949</Number>
+      <Street>E Lincoln Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Sheraton Grand at Wild Horse Pass</Name>
+    <Phone>520-796-5800</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>5594</Number>
+      <Street>Wild Horse Pass Blvd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Four Seasons Resort Scottsdale at Troon North</Name>
+    <Phone>480-513-5000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>10600</Number>
+      <Street>E Crescent Moon Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85262</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Loews Ventana Canyon Resort</Name>
+    <Phone>520-299-2020</Phone>
+    <Phone>800-235-6397</Phone>
+    <Address NearestAirport="Tucson International">
+      <Number>7000</Number>
+      <Street>N Oracle Rd</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85704</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hilton Sedona Resort at Bell Rock</Name>
+    <Phone>855-444-1796</Phone>
+    <Address NearestAirport="Flagstaff Pulliam">
+      <Number>90</Number>
+      <Street>Riordan Ranch Rd</Street>
+      <City>Sedona</City>
+      <State>AZ</State>
+      <Zip>86351</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Arizona Grand Resort &amp; Spa</Name>
+    <Phone>480-784-1234</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>8000</Number>
+      <Street>S Arizona Grand Pkwy</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85044</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
